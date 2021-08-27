@@ -1,0 +1,6 @@
+out/
+node_modules/
+.DS_Store
+vsc-extension-quickstart.md
+/test/
+**/src/dist/
